@@ -1,1 +1,1 @@
-D:/Project/Healthy_vs_Rotten.h5 filter=lfs diff=lfs merge=lfs -text
+Healthy_vs_Rotten.h5 filter=lfs diff=lfs merge=lfs -text
